@@ -31,6 +31,7 @@ gem 'rake', '~> 0.8.7'
 # end
 group :development do
   gem 'rspec-rails'
+  gem 'annotate-models'
 end
 
 group :test do
